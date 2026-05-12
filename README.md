@@ -32,3 +32,12 @@ src/
  ├── App.jsx         # Main logic and state management
  ├── index.css       # Tailwind & Global styles
  └── main.jsx        # Entry point
+
+# 🚀 Getting Started
+
+To get a local copy of this project up and running, follow these simple steps:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Atulkumar-SE/Edtech-Assignment
+
