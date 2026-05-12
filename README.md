@@ -1,16 +1,34 @@
-# React + Vite
+# 🎓 Edutech Course Directory – Frontlines Media Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance React application built to showcase a seamless course browsing experience. This project was developed as part of the technical assessment for the **Frontend Developer** role at **Frontlines Media**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**https://atulkumar-se.github.io/Edtech-Assignment/**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Tech Stack
+*   **Framework:** React.js (Vite)
+*   **Styling:** Tailwind CSS
+*   **Icons:** Lucide React
+*   **State Management:** React Hooks (`useState`, `useMemo`, `useEffect`)
+*   **Deployment:** Vercel / Netlify
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
+*   **Dynamic Course Grid:** A clean, responsive UI displaying course cards with details like instructor, duration, and ratings.
+*   **Real-time Search:** Users can filter courses instantly by name via a search input.
+*   **Advanced Filtering:** Dropdown filters to categorize courses by **Category** (Development, Design, Business).
+*   **Dynamic Sorting:** A sorting feature to organize courses by **Rating** or **Name**.
+*   **UX Optimization:** 
+    *   Loading states with an animated spinner for simulated data fetching.
+    *   "No Results" feedback when filters return empty.
+    *   Responsive design optimized for Mobile, Tablet, and Desktop.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+```text
+src/
+ ├── components/     # UI Components (CourseCard, FilterBar, Navbar)
+ ├── data/           # Mock API JSON data
+ ├── App.jsx         # Main logic and state management
+ ├── index.css       # Tailwind & Global styles
+ └── main.jsx        # Entry point
