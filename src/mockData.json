@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Full-Stack Web Development Bootcamp",
+    "instructor": "Jane Doe",
+    "duration": "12 Weeks",
+    "category": "Development",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 2,
+    "name": "Advanced UI/UX Design Principles",
+    "instructor": "Alex Smith",
+    "duration": "8 Weeks",
+    "category": "Design",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 3,
+    "name": "Data Science and Machine Learning",
+    "instructor": "Dr. Alan Turing",
+    "duration": "16 Weeks",
+    "category": "Development",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 4,
+    "name": "Digital Marketing Masterclass",
+    "instructor": "Sarah Johnson",
+    "duration": "6 Weeks",
+    "category": "Business",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 5,
+    "name": "Mobile App Development with React Native",
+    "instructor": "Jane Doe",
+    "duration": "10 Weeks",
+    "category": "Development",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 6,
+    "name": "Entrepreneurship: From Idea to Startup",
+    "instructor": "Michael Chang",
+    "duration": "8 Weeks",
+    "category": "Business",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 7,
+    "name": "Graphic Design for Beginners",
+    "instructor": "Alex Smith",
+    "duration": "4 Weeks",
+    "category": "Design",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 8,
+    "name": "Python for Data Analysis",
+    "instructor": "Dr. Alan Turing",
+    "duration": "10 Weeks",
+    "category": "Development",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 9,
+    "name": "Financial Modeling and Valuation",
+    "instructor": "Sarah Johnson",
+    "duration": "12 Weeks",
+    "category": "Business",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 10,
+    "name": "Typography and Layout Design",
+    "instructor": "Alex Smith",
+    "duration": "6 Weeks",
+    "category": "Design",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1509343256512-d77a5cb3791b?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "id": 11,
+    "name": "Cybersecurity Fundamentals",
+    "instructor": "Jane Doe",
+    "duration": "8 Weeks",
+    "category": "Development",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 12,
+    "name": "Leadership and Team Management",
+    "instructor": "Michael Chang",
+    "duration": "5 Weeks",
+    "category": "Business",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=600"
+  }
+]
