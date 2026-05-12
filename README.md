@@ -41,16 +41,20 @@ To get a local copy of this project up and running, follow these simple steps:
 ### 1. Clone the repository
 git clone [https://github.com/Atulkumar-SE/Edtech-Assignment]
 
+
 ### 2. Navigate to the project folder
 cd your-repo-name
 
+
 ### 3. Install dependencies
 npm install
+
 
 ### 4. Start the development server
 npm run dev
 
 Open `http://localhost:5173` in your browser.
+
 
 ## 📝 Technical Implementation Details
 *   **Data Handling:** Implemented using a mock JSON structure to simulate a real-world API response.
@@ -58,4 +62,4 @@ Open `http://localhost:5173` in your browser.
 *   **Responsive UI:** Leveraged Tailwind's grid and flexbox utilities to ensure a "mobile-first" experience.
 
 ---
-**Developed by:** [Atul Jaiswal]
+Developed by: **Atul Jaiswal**
