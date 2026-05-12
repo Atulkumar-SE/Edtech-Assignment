@@ -24,9 +24,9 @@ A modern, high-performance React application built to showcase a seamless course
     *   "No Results" feedback when filters return empty.
     *   Responsive design optimized for Mobile, Tablet, and Desktop.
 
-
 ## 📂 Project Structure
 
+```text
 src/
  ├── components/     # UI Components (CourseCard, FilterBar, Navbar)
  ├── data/           # Mock API JSON data
@@ -34,12 +34,14 @@ src/
  ├── index.css       # Tailwind & Global styles
  └── main.jsx        # Entry point
 
+```
+
 # 🚀 Getting Started
 
 To get a local copy of this project up and running, follow these simple steps:
 
 ### 1. Clone the repository
-git clone [https://github.com/Atulkumar-SE/Edtech-Assignment]
+```git clone [https://github.com/Atulkumar-SE/Edtech-Assignment]```
 
 
 ### 2. Navigate to the project folder
